@@ -10,6 +10,18 @@ It focuses on understanding the **core capabilities of GraphQL**, including sche
 
 <br>
 
+## 🖼️ Screenshots
+Shown below in order:  
+**1. Schema**
+
+<p align="center">
+  <img src="./docs/screenshots/schema.png" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
+</p>
+
+<br>
+
 ## 🧰 Tech Stack
 
 <p>
